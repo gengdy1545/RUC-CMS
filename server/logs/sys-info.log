@@ -1,0 +1,1200 @@
+00:00:01.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:00:01.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:01:31.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:01:31.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:03:02.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:03:02.292 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:04:32.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:04:32.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:06:03.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:06:03.292 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:07:33.589 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:07:33.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:09:04.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:09:04.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:10:34.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:10:34.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:12:05.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:12:05.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:13:35.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:13:35.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:15:06.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:15:06.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:16:36.589 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:16:36.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:18:07.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:18:07.292 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:19:37.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:19:37.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:21:08.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:21:08.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:22:38.489 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:22:38.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:24:09.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:24:09.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:25:39.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:25:39.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:27:10.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:27:10.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:28:40.589 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:28:40.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:30:11.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:30:11.292 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:31:41.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:31:41.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:33:12.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:33:12.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:34:42.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:34:42.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:36:13.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:36:13.292 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:37:43.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:37:43.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:39:14.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:39:14.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:40:44.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:40:44.793 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:42:15.089 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:42:15.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:43:45.589 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:43:45.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:45:16.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:45:16.193 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:46:46.390 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:46:46.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:48:16.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:48:17.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:49:47.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:49:47.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:51:17.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:51:18.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:52:48.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:52:48.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:54:18.789 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:54:19.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:55:49.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:55:49.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:57:19.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:57:20.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+00:58:50.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+00:58:50.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:00:20.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:00:21.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:01:51.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:01:51.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:03:21.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:03:22.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:04:52.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:04:52.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:06:22.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:06:23.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:07:53.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:07:53.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:09:23.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:09:24.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:10:54.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:10:54.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:12:24.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:12:25.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:13:55.289 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:13:55.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:15:25.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:15:26.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:16:56.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:16:56.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:18:26.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:18:27.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:19:57.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:19:57.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:21:27.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:21:28.094 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:22:58.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:22:58.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:24:28.789 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:24:29.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:25:59.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:25:59.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:27:29.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:27:30.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:29:00.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:29:00.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:30:30.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:30:31.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:32:01.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:32:01.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:33:31.789 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:33:32.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:35:02.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:35:02.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:36:32.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:36:33.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:38:03.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:38:03.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:39:33.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:39:34.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:41:04.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:41:04.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:42:34.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:42:35.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:44:05.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:44:05.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:45:35.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:45:36.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:47:06.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:47:06.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:48:36.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:48:37.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:50:07.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:50:07.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:51:37.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:51:38.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:53:08.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:53:08.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:54:38.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:54:39.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:56:09.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:56:09.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:57:39.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:57:40.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+01:59:10.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+01:59:10.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:00:40.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:00:41.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:02:11.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:02:11.593 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:03:41.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:03:42.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:05:12.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:05:12.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:06:42.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:06:43.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:08:13.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:08:13.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:09:43.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:09:44.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:11:14.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:11:14.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:12:44.789 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:12:45.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:14:15.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:14:15.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:15:45.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:15:46.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:17:16.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:17:16.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:18:46.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:18:47.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:20:17.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:20:17.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:21:47.789 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:21:48.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:23:18.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:23:18.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:24:48.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:24:49.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:26:19.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:26:19.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:27:49.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:27:50.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:29:20.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:29:20.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:30:50.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:30:51.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:32:21.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:32:21.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:33:51.789 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:33:52.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:35:22.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:35:22.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:36:52.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:36:53.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:38:23.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:38:23.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:39:53.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:39:54.093 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:41:24.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:41:24.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:42:54.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:42:55.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:44:25.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:44:25.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:45:55.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:45:56.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:47:26.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:47:26.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:48:56.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:48:57.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:50:27.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:50:27.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:51:57.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:51:58.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:53:28.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:53:28.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:54:58.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:54:59.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:56:29.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:56:29.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:57:59.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:58:00.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+02:59:30.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+02:59:30.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:01:00.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:01:01.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:02:31.289 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:02:31.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:04:01.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:04:02.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:05:32.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:05:32.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:07:02.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:07:03.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:08:33.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:08:33.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:10:03.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:10:04.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:11:34.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:11:34.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:13:04.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:13:05.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:14:35.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:14:35.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:16:05.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:16:06.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:17:36.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:17:36.593 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:19:06.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:19:07.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:20:37.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:20:37.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:22:07.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:22:08.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:23:38.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:23:38.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:25:08.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:25:09.093 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:26:39.289 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:26:39.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:28:09.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:28:10.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:29:40.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:29:40.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:31:10.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:31:11.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:32:41.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:32:41.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:34:11.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:34:12.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:35:42.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:35:42.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:37:12.789 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:37:13.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:38:43.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:38:43.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:40:13.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:40:14.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:41:44.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:41:44.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:43:14.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:43:15.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:44:45.289 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:44:45.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:46:15.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:46:16.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:47:46.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:47:46.593 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:49:16.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:49:17.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:50:47.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:50:47.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:52:17.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:52:18.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:53:48.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:53:48.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:55:18.789 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:55:19.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:56:49.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:56:49.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:58:19.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:58:20.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+03:59:50.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+03:59:50.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:01:20.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:01:21.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:02:51.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:02:51.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:04:21.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:04:22.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:05:52.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:05:52.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:07:22.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:07:23.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:08:53.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:08:53.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:10:23.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:10:24.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:11:54.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:11:54.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:13:24.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:13:25.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:14:55.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:14:55.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:16:25.789 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:16:26.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:17:56.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:17:56.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:19:26.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:19:27.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:20:57.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:20:57.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:22:27.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:22:28.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:23:58.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:23:58.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:25:28.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:25:29.093 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:26:59.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:26:59.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:28:29.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:28:30.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:30:00.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:30:00.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:31:30.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:31:31.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:33:01.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:33:01.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:34:31.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:34:32.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:36:02.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:36:02.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:37:32.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:37:33.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:39:03.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:39:03.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:40:33.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:40:34.093 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:42:04.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:42:04.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:43:34.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:43:35.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:45:05.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:45:05.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:46:35.789 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:46:36.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:48:06.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:48:06.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:49:36.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:49:37.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:51:07.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:51:07.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:52:37.789 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:52:38.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:54:08.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:54:08.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:55:38.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:55:39.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:57:09.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:57:09.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+04:58:39.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+04:58:40.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:00:10.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:00:10.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:01:40.789 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:01:41.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:03:11.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:03:11.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:04:41.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:04:42.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:06:12.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:06:12.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:07:42.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:07:43.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:09:13.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:09:13.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:10:43.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:10:44.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:12:14.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:12:14.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:13:44.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:13:45.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:15:15.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:15:15.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:16:45.789 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:16:46.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:18:16.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:18:16.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:19:46.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:19:47.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:21:17.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:21:17.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:22:47.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:22:48.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:24:18.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:24:18.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:25:48.789 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:25:49.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:27:19.289 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:27:19.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:28:49.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:28:50.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:30:20.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:30:20.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:31:50.789 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:31:51.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:33:21.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:33:21.593 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:34:51.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:34:52.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:36:22.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:36:22.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:37:52.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:37:53.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:39:23.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:39:23.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:40:53.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:40:54.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:42:24.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:42:24.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:43:54.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:43:55.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:45:25.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:45:25.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:46:55.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:46:56.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:48:26.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:48:26.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:49:56.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:49:57.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:51:27.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:51:27.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:52:57.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:52:58.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:54:28.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:54:28.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:55:58.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:55:59.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:57:29.289 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:57:29.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+05:58:59.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+05:59:00.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:00:30.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:00:30.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:02:00.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:02:01.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:03:31.289 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:03:31.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:05:01.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:05:02.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:06:32.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:06:32.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:08:02.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:08:03.090 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:09:33.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:09:33.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:11:03.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:11:04.093 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:12:34.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:12:34.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:14:04.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:14:05.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:15:35.289 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:15:35.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:17:05.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:17:06.090 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:18:36.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:18:36.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:20:06.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:20:07.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:21:37.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:21:37.590 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:23:07.789 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:23:08.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:24:38.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:24:38.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:26:08.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:26:09.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:27:39.289 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:27:39.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:29:09.789 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:29:10.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:30:40.289 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:30:40.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:32:10.789 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:32:11.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:33:41.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:33:41.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:35:11.589 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:35:11.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:36:42.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:36:42.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:38:12.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:38:12.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:39:43.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:39:43.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:41:13.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:41:13.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:42:44.089 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:42:44.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:44:14.589 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:44:14.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:45:45.089 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:45:45.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:47:15.589 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:47:15.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:48:46.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:48:46.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:50:16.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:50:16.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:51:47.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:51:47.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:53:17.389 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:53:17.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:54:47.789 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:54:48.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:56:18.289 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:56:18.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:57:48.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:57:48.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+06:59:19.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+06:59:19.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:00:49.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:00:49.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:02:20.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:02:20.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:03:50.589 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:03:50.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:05:21.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:05:21.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:06:51.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:06:51.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:08:22.089 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:08:22.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:09:52.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:09:52.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:11:23.089 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:11:23.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:12:53.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:12:53.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:14:24.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:14:24.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:15:54.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:15:54.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:17:25.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:17:25.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:18:55.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:18:55.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:20:26.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:20:26.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:21:56.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:21:56.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:23:27.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:23:27.290 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:24:57.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:24:57.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:26:28.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:26:28.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:27:58.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:27:58.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:29:29.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:29:29.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:30:59.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:30:59.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:32:30.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:32:30.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:34:00.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:34:00.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:35:31.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:35:31.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:37:01.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:37:01.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:38:32.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:38:32.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:40:02.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:40:02.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:41:33.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:41:33.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:43:03.589 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:43:03.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:44:34.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:44:34.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:46:04.589 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:46:04.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:47:35.089 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:47:35.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:49:05.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:49:05.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:50:36.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:50:36.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:52:06.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:52:06.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:53:37.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:53:37.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:55:07.589 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:55:07.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:56:38.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:56:38.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:58:08.589 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:58:08.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+07:59:39.089 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+07:59:39.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:01:09.589 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:01:09.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:02:40.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:02:40.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:04:10.589 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:04:10.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:05:41.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:05:41.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:07:11.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:07:11.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:08:42.090 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:08:42.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:10:12.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:10:12.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:11:43.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:11:43.290 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:13:13.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:13:13.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:14:44.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:14:44.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:16:14.589 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:16:14.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:17:45.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:17:45.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:19:15.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:19:15.790 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:20:46.089 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:20:46.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:22:16.590 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:22:16.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:23:47.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:23:47.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:25:17.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:25:17.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:26:48.089 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:26:48.290 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:28:18.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:28:18.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:29:49.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:29:49.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:31:19.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:31:19.691 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:32:49.890 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:32:50.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:34:20.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:34:20.591 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:35:50.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:35:51.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:37:21.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:37:21.590 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:38:51.789 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:38:52.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:40:22.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:40:22.590 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:41:52.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:41:53.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:43:23.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:43:23.591 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:44:53.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:44:54.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:46:24.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:46:24.592 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:47:54.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:47:55.090 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:49:25.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:49:25.591 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:50:55.789 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:50:56.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:52:26.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:52:26.591 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:53:56.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:53:57.093 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:55:27.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:55:27.591 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:56:57.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:56:58.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:58:28.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:58:28.591 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+08:59:58.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+08:59:59.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:01:29.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:01:29.592 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:02:59.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:03:00.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:04:30.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:04:30.591 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:06:00.789 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:06:01.091 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:07:31.289 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:07:31.491 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:09:01.589 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:09:01.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:10:32.090 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:10:32.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:12:02.590 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:12:02.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:13:33.090 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:13:33.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:15:03.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:15:03.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:16:34.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:16:34.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:18:04.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:18:04.790 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:19:35.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:19:35.290 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:21:05.589 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:21:05.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:22:36.090 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:22:36.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:24:06.590 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:24:06.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:25:37.090 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:25:37.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:27:07.589 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:27:07.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:28:38.089 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:28:38.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:30:08.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:30:08.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:31:39.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:31:39.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:33:09.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:33:09.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:34:40.090 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:34:40.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:36:10.589 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:36:10.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:37:41.090 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:37:41.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:39:11.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:39:11.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:40:42.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:40:42.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:42:12.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:42:12.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:43:43.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:43:43.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:45:13.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:45:13.791 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:46:44.089 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:46:44.291 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:48:14.590 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:48:14.791 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:49:45.089 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:49:45.291 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:51:15.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:51:15.791 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:52:46.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:52:46.291 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:54:16.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:54:16.791 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:55:47.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:55:47.291 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:57:17.489 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:57:17.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+09:58:48.090 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+09:58:48.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:00:18.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:00:18.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:01:49.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:01:49.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:03:19.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:03:19.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:04:50.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:04:50.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:06:20.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:06:20.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:07:51.090 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:07:51.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:09:21.589 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:09:21.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:10:52.090 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:10:52.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:12:22.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:12:22.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:13:53.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:13:53.290 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:15:23.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:15:23.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:16:54.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:16:54.290 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:18:24.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:18:24.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:19:55.090 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:19:55.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:21:25.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:21:25.590 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:22:55.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:22:56.092 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:24:26.289 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:24:26.591 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:25:56.790 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:25:57.090 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:27:27.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:27:27.591 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:28:57.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:28:58.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:30:28.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:30:28.592 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:31:58.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:31:59.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:33:29.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:33:29.591 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:34:59.789 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:35:00.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:36:30.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:36:30.591 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:38:00.790 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:38:01.092 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:39:31.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:39:31.590 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:41:01.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:41:02.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:42:32.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:42:32.591 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:44:02.789 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:44:03.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:45:33.289 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:45:33.592 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:47:03.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:47:04.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:48:34.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:48:34.591 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:50:04.790 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:50:05.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:51:35.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:51:35.591 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:53:05.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:53:06.092 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:54:36.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:54:36.590 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:56:06.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:56:07.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:57:00.096 [http-nio-8080-exec-47] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+10:57:37.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:57:37.590 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+10:57:41.210 [http-nio-8080-exec-53] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+10:57:45.744 [schedule-pool-1] INFO  sys-user - [run,55] - [10.47.152.131]内网IP[admin][Success][登录成功]
+10:59:07.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+10:59:08.090 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:00:38.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:00:38.592 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:02:08.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:02:09.091 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:03:39.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:03:39.491 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:05:09.689 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:05:09.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:06:40.089 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:06:40.290 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:08:10.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:08:10.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:09:41.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:09:41.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:11:11.589 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:11:11.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:12:42.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:12:42.292 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:14:12.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:14:12.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:15:43.090 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:15:43.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:17:13.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:17:13.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:18:44.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:18:44.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:20:14.589 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:20:14.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:21:45.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:21:45.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:23:15.590 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:23:15.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:24:46.090 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:24:46.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:26:16.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:26:16.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:27:47.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:27:47.292 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:29:17.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:29:17.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:30:48.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:30:48.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:32:18.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:32:18.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:33:49.090 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:33:49.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:35:19.590 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:35:19.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:36:50.090 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:36:50.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:38:20.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:38:20.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:39:51.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:39:51.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:41:21.589 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:41:21.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:42:51.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:42:52.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:44:22.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:44:22.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:45:52.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:45:53.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:47:23.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:47:23.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:48:53.789 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:48:54.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:50:24.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:50:24.593 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:51:54.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:51:55.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:53:25.289 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:53:25.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:54:55.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:54:56.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:56:26.289 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:56:26.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:57:56.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:57:57.092 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+11:59:27.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+11:59:27.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:00:57.789 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:00:58.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:02:28.289 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:02:28.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:03:58.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:03:59.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:05:29.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:05:29.593 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:06:59.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:07:00.090 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:08:30.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:08:30.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:10:00.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:10:01.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:11:31.289 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:11:31.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:13:01.789 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:13:02.092 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:14:32.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:14:32.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:16:02.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:16:03.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:17:33.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:17:33.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:19:03.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:19:04.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:20:34.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:20:34.593 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:22:04.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:22:05.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:23:00.771 [Druid-ConnectionPool-Create-722417467] INFO  c.a.d.p.DruidAbstractDataSource - [setFailContinuous,1804] - {dataSource-1} failContinuous is true
+12:23:04.791 [Druid-ConnectionPool-Create-722417467] INFO  c.a.d.p.DruidAbstractDataSource - [setFailContinuous,1809] - {dataSource-1} failContinuous is false
+12:23:28.022 [schedule-pool-14] INFO  sys-user - [run,55] - [10.47.152.131]内网IP[admin][Success][登录成功]
+12:23:35.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:23:35.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:25:05.790 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:25:06.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:26:36.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:26:36.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:28:06.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:28:07.093 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:29:37.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:29:37.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:31:07.789 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:31:08.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:32:38.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:32:38.591 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:34:08.789 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:34:09.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:35:39.289 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:35:39.592 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:37:09.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:37:10.091 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:38:40.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:38:40.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:40:10.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:40:10.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:41:41.089 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:41:41.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:43:11.590 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:43:11.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:44:42.090 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:44:42.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:46:12.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:46:12.790 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:47:43.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:47:43.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:49:13.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:49:13.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:50:44.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:50:44.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:52:14.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:52:14.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:53:45.089 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:53:45.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:55:15.589 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:55:15.791 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:56:46.089 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:56:46.291 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:58:16.590 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:58:16.791 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+12:59:47.090 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+12:59:47.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:01:17.590 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:01:17.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:02:48.090 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:02:48.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:04:18.590 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:04:18.791 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:05:49.090 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:05:49.291 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:07:19.590 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:07:19.790 [lettuce-nioEventLoop-4-8] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:07:30.770 [http-nio-8080-exec-55] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+13:07:35.898 [schedule-pool-1] INFO  sys-user - [run,55] - [10.47.152.131]内网IP[admin][Success][登录成功]
+13:08:50.090 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:08:50.290 [lettuce-nioEventLoop-4-3] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:10:20.590 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:10:20.792 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:11:51.089 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:11:51.291 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:13:21.590 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:13:21.791 [lettuce-nioEventLoop-4-4] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:14:52.089 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:14:52.291 [lettuce-nioEventLoop-4-7] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:16:22.390 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:16:22.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:17:52.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:17:53.090 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:19:23.290 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:19:23.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:20:53.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:20:54.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:22:24.289 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:22:24.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:23:54.789 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:23:55.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:25:25.289 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:25:25.592 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:26:55.789 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:26:56.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:28:26.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:28:26.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:29:56.789 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:29:57.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:31:27.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:31:27.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:32:57.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:32:58.093 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:34:28.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:34:28.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:35:58.789 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:35:59.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:37:29.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:37:29.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:38:59.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:39:00.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:40:30.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:40:30.593 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:42:00.789 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:42:01.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:43:10.037 [http-nio-8080-exec-69] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+13:43:31.289 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:43:31.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:43:46.271 [http-nio-8080-exec-15] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+13:43:47.459 [http-nio-8080-exec-21] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+13:43:55.539 [schedule-pool-10] INFO  sys-user - [run,55] - [10.47.152.131]内网IP[test][Success][登录成功]
+13:45:01.789 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:45:02.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:46:11.927 [http-nio-8080-exec-90] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+13:46:32.290 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:46:32.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:48:02.790 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:48:03.092 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:49:33.289 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:49:33.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:51:03.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:51:04.092 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:52:13.814 [http-nio-8080-exec-83] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+13:52:14.305 [http-nio-8080-exec-75] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+13:52:23.131 [schedule-pool-44] INFO  sys-user - [run,55] - [10.47.152.131]内网IP[test][Error][验证码错误]
+13:52:25.501 [schedule-pool-6] INFO  sys-user - [run,55] - [10.47.152.131]内网IP[test][Success][登录成功]
+13:52:34.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:52:34.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:54:04.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:54:05.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:55:35.289 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:55:35.593 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:57:05.790 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:57:06.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+13:58:36.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+13:58:36.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:00:06.790 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:00:07.091 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:01:37.290 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:01:37.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:03:07.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:03:08.093 [lettuce-nioEventLoop-4-6] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:04:38.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:04:38.591 [lettuce-nioEventLoop-4-2] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:06:08.890 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:06:09.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:07:39.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:07:39.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:09:09.789 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:09:10.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:10:40.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:10:40.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:12:10.790 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:12:11.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:13:41.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:13:41.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:15:11.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:15:12.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:16:01.090 [http-nio-8080-exec-94] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+14:16:42.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:16:42.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:18:12.790 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:18:13.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:19:43.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:19:43.598 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:21:13.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:21:14.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:22:44.289 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:22:44.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:24:14.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:24:15.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:25:45.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:25:45.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:27:15.789 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:27:16.092 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:28:46.290 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:28:46.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:30:16.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:30:17.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:31:47.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:31:47.590 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:33:17.790 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:33:18.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:34:48.290 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:34:48.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:36:18.790 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:36:19.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:37:49.290 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:37:49.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:39:19.790 [lettuce-eventExecutorLoop-1-7] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:39:20.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:40:50.290 [lettuce-eventExecutorLoop-1-6] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:40:50.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:42:20.790 [lettuce-eventExecutorLoop-1-5] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:42:21.093 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:43:51.290 [lettuce-eventExecutorLoop-1-4] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:43:51.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:45:21.790 [lettuce-eventExecutorLoop-1-3] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:45:22.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:46:52.289 [lettuce-eventExecutorLoop-1-2] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:46:52.591 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:48:22.789 [lettuce-eventExecutorLoop-1-1] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:48:23.091 [lettuce-nioEventLoop-4-5] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379
+14:49:53.289 [lettuce-eventExecutorLoop-1-8] INFO  i.l.c.p.ConnectionWatchdog - [log,171] - Reconnecting, last destination was /127.0.0.1:6379
+14:49:53.592 [lettuce-nioEventLoop-4-1] INFO  i.l.c.p.ReconnectionHandler - [lambda$null$3,174] - Reconnected to 127.0.0.1:6379

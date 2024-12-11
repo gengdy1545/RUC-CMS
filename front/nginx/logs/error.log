@@ -1,0 +1,150 @@
+2024/12/06 11:58:28 [emerg] 2347628#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2024/12/06 12:01:16 [emerg] 2347845#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2024/12/07 03:48:32 [notice] 2392546#0: signal process started
+2024/12/07 03:55:27 [notice] 2395562#0: signal process started
+2024/12/07 04:04:12 [notice] 2398416#0: signal process started
+2024/12/07 04:09:49 [notice] 2400383#0: signal process started
+2024/12/07 04:39:49 [notice] 2409332#0: signal process started
+2024/12/07 04:42:57 [notice] 2410470#0: signal process started
+2024/12/07 04:51:30 [notice] 2413196#0: signal process started
+2024/12/07 04:57:48 [notice] 2415240#0: signal process started
+2024/12/07 05:07:38 [notice] 2418354#0: signal process started
+2024/12/07 05:27:20 [notice] 2424313#0: signal process started
+2024/12/07 05:36:07 [notice] 2427053#0: signal process started
+2024/12/07 05:46:46 [notice] 2430385#0: signal process started
+2024/12/07 05:51:46 [notice] 2432098#0: signal process started
+2024/12/07 05:55:24 [notice] 2433438#0: signal process started
+2024/12/07 05:58:45 [notice] 2434624#0: signal process started
+2024/12/07 06:04:23 [notice] 2436487#0: signal process started
+2024/12/07 06:21:30 [notice] 2441708#0: signal process started
+2024/12/07 06:34:40 [notice] 2445886#0: signal process started
+2024/12/07 06:35:43 [notice] 2446403#0: signal process started
+2024/12/07 06:44:57 [notice] 2449345#0: signal process started
+2024/12/07 06:59:01 [notice] 2453633#0: signal process started
+2024/12/07 07:10:55 [notice] 2457690#0: signal process started
+2024/12/07 07:16:39 [notice] 2459552#0: signal process started
+2024/12/07 07:20:37 [notice] 2461018#0: signal process started
+2024/12/07 07:22:44 [notice] 2461912#0: signal process started
+2024/12/07 07:25:28 [notice] 2462933#0: signal process started
+2024/12/07 07:26:26 [notice] 2463462#0: signal process started
+2024/12/07 07:28:15 [notice] 2464230#0: signal process started
+2024/12/07 07:37:31 [notice] 2467403#0: signal process started
+2024/12/07 07:44:23 [notice] 2469676#0: signal process started
+2024/12/07 07:46:33 [notice] 2470505#0: signal process started
+2024/12/07 07:55:43 [notice] 2473440#0: signal process started
+2024/12/07 08:03:57 [notice] 2476464#0: signal process started
+2024/12/07 08:06:42 [notice] 2477500#0: signal process started
+2024/12/07 08:11:56 [notice] 2479228#0: signal process started
+2024/12/07 08:15:56 [notice] 2481090#0: signal process started
+2024/12/07 08:21:28 [notice] 2482937#0: signal process started
+2024/12/07 08:24:24 [notice] 2484012#0: signal process started
+2024/12/07 08:26:42 [notice] 2484906#0: signal process started
+2024/12/07 08:31:27 [notice] 2486485#0: signal process started
+2024/12/07 08:35:05 [notice] 2487762#0: signal process started
+2024/12/07 08:40:46 [notice] 2489631#0: signal process started
+2024/12/07 08:44:29 [notice] 2490934#0: signal process started
+2024/12/07 08:51:40 [notice] 2493197#0: signal process started
+2024/12/07 08:53:24 [notice] 2493961#0: signal process started
+2024/12/07 11:42:11 [notice] 2543981#0: signal process started
+2024/12/07 11:44:47 [notice] 2545018#0: signal process started
+2024/12/07 11:47:56 [notice] 2546271#0: signal process started
+2024/12/07 11:56:10 [notice] 2548934#0: signal process started
+2024/12/07 12:02:16 [notice] 2550965#0: signal process started
+2024/12/07 12:04:56 [notice] 2551966#0: signal process started
+2024/12/07 12:08:28 [notice] 2553236#0: signal process started
+2024/12/07 12:18:37 [notice] 2556377#0: signal process started
+2024/12/07 12:24:57 [notice] 2558476#0: signal process started
+2024/12/07 12:26:05 [notice] 2559035#0: signal process started
+2024/12/07 13:11:12 [notice] 2573590#0: signal process started
+2024/12/07 13:16:52 [notice] 2575711#0: signal process started
+2024/12/07 13:16:52 [alert] 2575711#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/07 13:16:56 [notice] 2575734#0: signal process started
+2024/12/07 13:40:30 [notice] 2586503#0: signal process started
+2024/12/07 13:40:30 [alert] 2586503#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/07 13:40:37 [notice] 2586548#0: signal process started
+2024/12/07 13:53:25 [notice] 2592439#0: signal process started
+2024/12/07 14:13:46 [notice] 2600804#0: signal process started
+2024/12/07 14:15:18 [notice] 2601488#0: signal process started
+2024/12/07 14:23:59 [notice] 2604346#0: signal process started
+2024/12/07 14:29:21 [notice] 2606229#0: signal process started
+2024/12/07 14:31:19 [notice] 2607068#0: signal process started
+2024/12/07 14:34:24 [notice] 2608318#0: signal process started
+2024/12/07 14:37:17 [notice] 2609382#0: signal process started
+2024/12/07 14:39:39 [notice] 2610316#0: signal process started
+2024/12/07 14:41:11 [notice] 2611037#0: signal process started
+2024/12/07 14:43:27 [notice] 2611949#0: signal process started
+2024/12/07 15:12:49 [notice] 2620943#0: signal process started
+2024/12/07 15:25:13 [notice] 2624964#0: signal process started
+2024/12/07 15:38:43 [notice] 2629360#0: signal process started
+2024/12/07 15:50:16 [notice] 2633057#0: signal process started
+2024/12/07 15:51:36 [notice] 2633685#0: signal process started
+2024/12/07 15:53:56 [notice] 2634594#0: signal process started
+2024/12/07 16:02:21 [notice] 2637378#0: signal process started
+2024/12/07 16:12:02 [notice] 2640482#0: signal process started
+2024/12/07 16:14:28 [notice] 2641445#0: signal process started
+2024/12/07 16:16:11 [notice] 2642209#0: signal process started
+2024/12/07 16:26:18 [notice] 2645563#0: signal process started
+2024/12/07 16:29:02 [notice] 2646668#0: signal process started
+2024/12/08 05:35:39 [notice] 2691063#0: signal process started
+2024/12/08 05:35:39 [alert] 2691063#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/08 05:35:51 [notice] 2691114#0: signal process started
+2024/12/08 05:36:58 [notice] 2691484#0: signal process started
+2024/12/08 07:08:00 [notice] 2721792#0: signal process started
+2024/12/08 07:10:28 [notice] 2722776#0: signal process started
+2024/12/08 07:11:56 [notice] 2723433#0: signal process started
+2024/12/08 07:15:19 [notice] 2724660#0: signal process started
+2024/12/08 07:31:09 [notice] 2729617#0: signal process started
+2024/12/08 07:50:34 [notice] 2735889#0: signal process started
+2024/12/08 07:59:31 [notice] 2738781#0: signal process started
+2024/12/08 10:32:54 [notice] 2770005#0: signal process started
+2024/12/08 10:48:13 [notice] 2775035#0: signal process started
+2024/12/08 11:17:44 [notice] 2786163#0: signal process started
+2024/12/08 11:33:10 [notice] 2791385#0: signal process started
+2024/12/08 12:31:01 [notice] 2809369#0: signal process started
+2024/12/08 12:41:11 [notice] 2812856#0: signal process started
+2024/12/08 12:46:16 [notice] 2814604#0: signal process started
+2024/12/08 12:57:50 [notice] 2818279#0: signal process started
+2024/12/08 12:59:55 [notice] 2819144#0: signal process started
+2024/12/08 13:12:40 [notice] 2823203#0: signal process started
+2024/12/08 13:16:34 [notice] 2824637#0: signal process started
+2024/12/08 13:19:10 [notice] 2825632#0: signal process started
+2024/12/08 13:21:13 [notice] 2826531#0: signal process started
+2024/12/08 13:24:06 [notice] 2827609#0: signal process started
+2024/12/08 13:26:37 [notice] 2828594#0: signal process started
+2024/12/08 13:31:16 [notice] 2830374#0: signal process started
+2024/12/08 14:59:37 [notice] 2857312#0: signal process started
+2024/12/09 04:33:41 [notice] 2899334#0: signal process started
+2024/12/09 04:35:56 [notice] 2900204#0: signal process started
+2024/12/09 12:56:29 [notice] 2955802#0: signal process started
+2024/12/10 19:14:50 [warn] 3023152#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/web/front/nginx/conf/nginx.conf:1
+2024/12/10 19:14:50 [notice] 3023152#0: signal process started
+2024/12/10 19:14:50 [alert] 3023152#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/10 19:15:00 [notice] 3023174#0: signal process started
+2024/12/10 19:46:47 [notice] 3025818#0: signal process started
+2024/12/10 19:52:26 [warn] 3026193#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/web/front/nginx/conf/nginx.conf:1
+2024/12/10 19:52:26 [notice] 3026193#0: signal process started
+2024/12/10 19:52:26 [alert] 3026193#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/10 19:52:30 [notice] 3026197#0: signal process started
+2024/12/10 20:02:42 [notice] 3028020#0: signal process started
+2024/12/10 20:05:56 [warn] 3028179#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/web/front/nginx/conf/nginx.conf:1
+2024/12/10 20:05:56 [notice] 3028179#0: signal process started
+2024/12/10 20:05:56 [alert] 3028179#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/10 20:06:06 [notice] 3028200#0: signal process started
+2024/12/10 20:13:40 [notice] 3030726#0: signal process started
+2024/12/10 20:16:16 [notice] 3031696#0: signal process started
+2024/12/10 23:06:05 [notice] 3082693#0: signal process started
+2024/12/10 23:08:41 [warn] 3083464#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/web/front/nginx/conf/nginx.conf:1
+2024/12/10 23:08:41 [notice] 3083464#0: signal process started
+2024/12/10 23:08:41 [alert] 3083464#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/10 23:08:45 [notice] 3083506#0: signal process started
+2024/12/11 10:56:47 [notice] 3126092#0: signal process started
+2024/12/11 11:34:52 [notice] 3131733#0: signal process started
+2024/12/11 12:26:53 [notice] 3148475#0: signal process started
+2024/12/11 14:05:56 [notice] 3178467#0: signal process started
+2024/12/11 14:11:05 [notice] 3180243#0: signal process started
+2024/12/11 14:22:15 [warn] 3183692#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /home/web/front/nginx/conf/nginx.conf:1
+2024/12/11 14:22:15 [notice] 3183692#0: signal process started
+2024/12/11 14:22:15 [alert] 3183692#0: kill(2347850, 1) failed (1: Operation not permitted)
+2024/12/11 14:22:34 [notice] 3183790#0: signal process started
+2024/12/11 14:35:14 [notice] 3187848#0: signal process started
+2024/12/11 14:41:39 [notice] 3189798#0: signal process started

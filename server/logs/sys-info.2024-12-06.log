@@ -1,0 +1,29 @@
+12:00:00.669 [main] INFO  c.r.RuoYiApplication - [logStarting,55] - Starting RuoYiApplication using Java 1.8.0_432 on dbm with PID 2347698 (/home/web/server/ruoyi-admin.jar started by web in /home/web/server/bin)
+12:00:00.669 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+12:00:00.672 [main] INFO  c.r.RuoYiApplication - [logStartupProfileInfo,663] - The following profiles are active: druid
+12:00:03.134 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+12:00:03.135 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:00:03.135 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+12:00:03.199 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:00:05.453 [main] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-1} inited
+12:00:07.381 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+12:00:07.404 [main] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:00:07.405 [main] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+12:00:07.413 [main] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'RuoyiScheduler' with instanceId 'dbm1733486407384'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+12:00:07.413 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'RuoyiScheduler' initialized from an externally provided properties instance.
+12:00:07.413 [main] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+12:00:07.415 [main] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@1a78dacd
+12:00:09.201 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+12:00:09.516 [main] INFO  c.r.RuoYiApplication - [logStarted,61] - Started RuoYiApplication in 9.27 seconds (JVM running for 9.819)
+12:00:10.522 [Quartz Scheduler [RuoyiScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler RuoyiScheduler_$_dbm1733486407384 started.
+12:01:35.885 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12:01:35.952 [http-nio-8080-exec-1] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+12:01:44.870 [http-nio-8080-exec-5] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
+12:02:27.899 [http-nio-8080-exec-9] INFO  c.r.f.d.DynamicDataSourceContextHolder - [setDataSourceType,26] - 切换到MASTER数据源
