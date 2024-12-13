@@ -422,7 +422,7 @@ hr.style-one {
 }
 
 .first-menu {
-    background-color: #0A2D6B;
+    background-color: #003F87;
     padding: 15px 20px;
 }
 
