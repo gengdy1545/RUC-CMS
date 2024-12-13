@@ -258,6 +258,7 @@ public class CmsBlogServiceImpl implements ICmsBlogService {
             }
         }
         clearBlogCache();
+        cmsBlog.setStatus("2");
         return cmsBlogMapper.updateCmsBlog(cmsBlog);
     }
 
